@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30.552851mm"
+   height="22.832981mm"
+   viewBox="0 0 30.552851 22.832981"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5">
+      <stop
+         style="stop-color:#dc5400;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#ffa100;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#ff5500;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#ff9e00;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="75.09095"
+       y1="154.9603"
+       x2="94.901131"
+       y2="154.9603"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30052779,0,0,0.30052779,46.130757,84.367049)" />
+    <linearGradient
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="59.86771"
+       y1="157.14771"
+       x2="160.13229"
+       y2="157.14771"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-59.65743,-119.65744)">
+    <path
+       style="fill:url(#linearGradient6);fill-opacity:1;stroke:#000000;stroke-width:1.66374;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 118.33334,120 c 8.33333,0 24.99999,-1e-5 33.33333,10.83354 C 160,141.66709 160,163.33333 160,175.83336 c 0,12.50003 0,15.8333 -5.83345,17.49996 -5.83345,1.66667 -17.49988,1.66667 -25.83327,-4.16678 C 119.9999,183.33309 115,171.66666 109.99995,171.66677 c -5.00005,1.2e-4 -9.999951,11.66656 -18.3334,17.49989 -8.333448,5.83333 -19.999882,5.83333 -25.833216,4.16663 -5.833333,-1.6667 -5.833333,-4.99997 -5.833333,-17.50019 0,-12.50021 0,-34.16644 8.3335,-44.99978 8.333501,-10.83333 24.999832,-10.83333 33.333169,-10.83333 8.33333,0 8.33333,1e-5 16.66667,1e-5 z"
+       id="path1"
+       transform="matrix(0.30052779,0,0,0.30052779,41.875799,83.844124)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2668px;line-height:0.65;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:url(#linearGradient3);fill-opacity:1;stroke:#ffffff;stroke-width:0.643151;stroke-opacity:1"
+       x="68.670334"
+       y="133.95413"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2668px;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:url(#linearGradient3);fill-opacity:1;stroke:#ffffff;stroke-width:0.643151;stroke-opacity:1"
+         x="68.670334"
+         y="133.95413"
+         dx="0 0"
+         dy="0 0"
+         rotate="0 0 0">JC</tspan></text>
+  </g>
+</svg>
